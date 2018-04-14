@@ -17,3 +17,10 @@ img#image {
     border: 2px solid red;
     border-radius: 5px;
 }
+
+#picture-css {
+    background-image: url(../images/image_2.jpg);
+    width: 900px;
+    height: 300px;
+    margin: 0 auto;
+}
