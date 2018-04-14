@@ -1,0 +1,15 @@
+/* p {
+    color: red;
+    font-weight:bold;
+    font-size:100px;
+} */
+/* body {
+    background: black;
+} */
+p, h1, h4 {
+    color: red;
+}
+
+div p {
+    color: blue;
+}
