@@ -13,3 +13,11 @@ p, h1, h4 {
 div p {
     color: blue;
 }
+
+#first-para {
+    color: yellow;
+}
+
+.first-para {
+    color: purple;
+}
